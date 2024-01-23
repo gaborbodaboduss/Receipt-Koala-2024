@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Receipt-Koala-2024/static/css/main.c82c6252.css",
+    "main.js": "/Receipt-Koala-2024/static/js/main.794f7184.js",
+    "index.html": "/Receipt-Koala-2024/index.html",
+    "main.c82c6252.css.map": "/Receipt-Koala-2024/static/css/main.c82c6252.css.map",
+    "main.794f7184.js.map": "/Receipt-Koala-2024/static/js/main.794f7184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c82c6252.css",
+    "static/js/main.794f7184.js"
+  ]
+}
